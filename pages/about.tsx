@@ -24,9 +24,8 @@ export default function App() {
         </a>{" "}
         and{" "}
         <a
-          className="font-bold hover:underline"
+          className="font-bold hover:underline whitespace-nowrap"
           href="https://tailwindcss.com/"
-          className="whitespace-nowrap"
         >
           Tailwind CSS
         </a>
