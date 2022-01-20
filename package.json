@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "generative-tailwind-squares",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -1,1 +1,1 @@
-# [Tailwind Generative Squares](https://tailwind-generative-squares.vercel.app/)
+# [Generative Tailwind Squares](https://generative-tailwind-squares.vercel.app/)
